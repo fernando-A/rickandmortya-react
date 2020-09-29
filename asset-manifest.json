@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rickandmortya-react/static/css/main.32c72a3a.chunk.css",
-    "main.js": "/rickandmortya-react/static/js/main.1a495625.chunk.js",
-    "main.js.map": "/rickandmortya-react/static/js/main.1a495625.chunk.js.map",
+    "main.js": "/rickandmortya-react/static/js/main.dce35609.chunk.js",
+    "main.js.map": "/rickandmortya-react/static/js/main.dce35609.chunk.js.map",
     "runtime-main.js": "/rickandmortya-react/static/js/runtime-main.0feb7e39.js",
     "runtime-main.js.map": "/rickandmortya-react/static/js/runtime-main.0feb7e39.js.map",
     "static/css/2.9a9a1f6f.chunk.css": "/rickandmortya-react/static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.4348b8bb.chunk.js": "/rickandmortya-react/static/js/2.4348b8bb.chunk.js",
     "static/js/2.4348b8bb.chunk.js.map": "/rickandmortya-react/static/js/2.4348b8bb.chunk.js.map",
     "index.html": "/rickandmortya-react/index.html",
-    "precache-manifest.3542c7dd9380dc27151638037ce55adb.js": "/rickandmortya-react/precache-manifest.3542c7dd9380dc27151638037ce55adb.js",
+    "precache-manifest.4ae38ac6c498da326c84ea43496a2eee.js": "/rickandmortya-react/precache-manifest.4ae38ac6c498da326c84ea43496a2eee.js",
     "service-worker.js": "/rickandmortya-react/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/rickandmortya-react/static/css/2.9a9a1f6f.chunk.css.map",
     "static/css/main.32c72a3a.chunk.css.map": "/rickandmortya-react/static/css/main.32c72a3a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.4348b8bb.chunk.js",
     "static/css/main.32c72a3a.chunk.css",
-    "static/js/main.1a495625.chunk.js"
+    "static/js/main.dce35609.chunk.js"
   ]
 }
