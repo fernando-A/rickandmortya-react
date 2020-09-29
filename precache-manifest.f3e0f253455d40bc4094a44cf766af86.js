@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daa7811589fd3f935f43eb0e130b3290",
+    "revision": "ff3bbcf808f86190185bd9b3ec0faa53",
     "url": "/rickandmortya-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rickandmortya-react/static/css/2.9a9a1f6f.chunk.css"
   },
   {
-    "revision": "01e16b3f8063e360a392",
+    "revision": "e1ceaf248dceaf18c36f",
     "url": "/rickandmortya-react/static/css/main.32c72a3a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rickandmortya-react/static/js/2.4348b8bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01e16b3f8063e360a392",
-    "url": "/rickandmortya-react/static/js/main.56326cfc.chunk.js"
+    "revision": "e1ceaf248dceaf18c36f",
+    "url": "/rickandmortya-react/static/js/main.e7f3cb63.chunk.js"
   },
   {
     "revision": "687e95e3a2546957a453",
